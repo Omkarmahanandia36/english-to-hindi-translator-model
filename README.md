@@ -27,7 +27,8 @@ Encoder: Embedding + LSTM
 
 Decoder: Embedding + LSTM with Attention
 
-
 Trained using Teacher Forcing
+
+
 📁 Dataset
 Uses publicly available datasets : IIT Bombay English-Hindi Corpus
